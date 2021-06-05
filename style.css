@@ -115,3 +115,28 @@ html
   {
       font-size: larger;
   }
+
+  /* ..........................
+         ABOUT 
+...............................*/
+#about
+{
+background-color: #fff;}
+#about .title
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#about .title h1
+{
+  display: inline-block;  
+}
+
+#about .title hr
+{
+    height: 4px;
+    color:#A21D00;
+    opacity: 100%;
+    width: 7%;
+}
