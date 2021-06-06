@@ -272,12 +272,58 @@ background-color: #fff;}
 ......................................... */
 #footer
 {
-    color: white;
-    padding: 5%;
-    background-color: rgb(34, 25, 25);
+	background-image: linear-gradient(to right,#A21D00, #651102); 
+	color:#fff;
 }
+.footer-img
+{
+	width: 100%;
+}
+.footer-box
+{
+	padding: 20px;
+}
+.footer-box img
+{
+	width: 120px;margin-bottom: 20px;
+}
+
+.footer-box i 
+{
+ margin-right: 8px;
+ font-size: 25px;
+ height: 40px;
+ width: 40px;text-align: center;
+ border-radius: 2px;
+ padding-top: 7px;
+ background-image: linear-gradient(to right,#881501, #651102);
+}
+.footer-box .form-control
+{
+	box-shadow: none !important;
+	border:none;
+	border-radius: 0;
+	max-width: 250px;
+	margin-top: 25px;
+}
+.footer-box .btn-dark
+{
+box-shadow: none !important;
+	border:none;
+	border-radius: 0;
+	margin-top: 30px;
+}
+.copyright
+{
+	padding-bottom: 3em;
+    margin-bottom: 0;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
 #footer h4
 {
+    font-size: 1.3em;
    text-align: center;
    padding: 1%;
 }
@@ -285,6 +331,7 @@ background-color: #fff;}
 #footer #social-media
 {
     text-align: center;
+    margin: 1em;
 }
 #footer #social-media a
 {
@@ -298,9 +345,10 @@ background-color: #fff;}
 #footer #social-media i
 {
     font-size: larger;
-}
+} 
 
-#footer .float{
+#footer .float
+{
 	position:fixed;
 	width:50px;
 	height:50px;
@@ -418,7 +466,6 @@ background-color: #fff;}
 #header .col2 h1
 {
     color: rgb(255, 255, 255);
-    margin: 1em 1em 1em;
 }
 
 #header .col2  span a
