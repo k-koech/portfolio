@@ -17,8 +17,8 @@ The app works well, no errors.
 ## Technologies Used
 Javascript, Bootstrap, HTML and CSS.
 ## Support and contact details
-email - koechkelvin97@gmail.com    
-whatsApp - +254725801772
+Email - koechkelvin97@gmail.com    
+WhatsApp - +254725801772
 ### License
 *It licensed under MIT licence - [a relative link](#License.md)*
 Copyright (c) 2021 **Kelvin Kipchumba Koech**
