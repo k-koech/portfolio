@@ -2,7 +2,11 @@ html
 {
     scroll-behavior: smooth;
 }
-
+a
+{
+    text-decoration: none;
+    color: #000;
+}
 /* HEADER */
 #header
 {
@@ -18,6 +22,10 @@ html
     background-color: #db3713 !important;
     font-weight: 900;
     padding: 5px;
+}
+.navbar
+{
+    padding-top: 2em !important;
 }
 #navbarNav li
 {
@@ -125,7 +133,7 @@ html
 ...............................*/
 #about
 {
-    padding-top: 2em;
+    padding-top: 1em;
     background-color: rgb(245, 244, 244); 
     margin: 20px;
     border-radius: 20px;
@@ -286,10 +294,8 @@ html
 }
 .footer-box #map {
     height: 200px;
-    /* The height is 400 pixels */
     width: 100%;
     background-color: rgb(214, 210, 206);
-    /* The width is the width of the web page */
   }
 .footer-img
 {
@@ -426,12 +432,16 @@ box-shadow: none !important;
         background-color: #ffffff !important;
         font-weight: 900;
     }
+    .navbar
+    {
+        background-color: #fff !important;
+    }
     #navbarNav
     {
-        background-color: #fff;
+        position:relative;
+        background-color: #fff !important;
         margin: 0;
-        position: relative;
-        z-index: 99;
+        padding-right: 40%;
     }
     #navbarNav li
     {

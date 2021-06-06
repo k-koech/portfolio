@@ -1,3 +1,9 @@
+// close the collapse class when nav-li is clicked
+$('.nav-link').on('click',function() 
+{
+    $('.navbar-collapse').collapse('hide');
+});
+
 // My location map
 function initMap() {
     // The location of Rongai
