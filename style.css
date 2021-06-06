@@ -186,6 +186,10 @@ a
   display: flex;
   justify-content: space-evenly;
 }
+#projects .project-list .title
+{
+  margin-top: 2em;
+}
 #projects .column
 {
     background-color: rgb(255, 255, 255);
@@ -527,9 +531,16 @@ box-shadow: none !important;
   {
       font-size: larger;
   }
+   /* .........................
+    PROJECTS
+  .......................... */
+  #projects .project-list .title
+  {
+    margin-top: 1em;
+  }
 
   /* .........................
-  FOOTER
+    FOOTER
   .......................... */
   #footer .backToTop 
   {
