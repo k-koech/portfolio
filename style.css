@@ -125,7 +125,11 @@ html
 ...............................*/
 #about
 {
-background-color: #fff;}
+    padding-top: 2em;
+    background-color: rgb(245, 244, 244); 
+    margin: 20px;
+    border-radius: 20px;
+}
 #about .title
 {
     display: flex;
@@ -151,7 +155,7 @@ background-color: #fff;}
 ...............................*/
 #projects
 {
-    background-color: rgb(221, 218, 218);
+    background-color: rgb(245, 244, 244); 
     border-radius: 15px;
     padding: 10px;
     margin: 5px 20px;
@@ -199,7 +203,12 @@ background-color: #fff;}
 /*--------------------------------------------------------------
 # RESUME
 --------------------------------------------------------------*/
-
+#resume
+{
+    background-color: rgb(245, 244, 244); 
+    margin: 20px;
+    border-radius: 20px;
+}
 #resume hr
 {
     height: 4px;
@@ -275,6 +284,13 @@ background-color: #fff;}
 	background-image: linear-gradient(to right,#A21D00, #651102); 
 	color:#fff;
 }
+.footer-box #map {
+    height: 200px;
+    /* The height is 400 pixels */
+    width: 100%;
+    background-color: rgb(214, 210, 206);
+    /* The width is the width of the web page */
+  }
 .footer-img
 {
 	width: 100%;
