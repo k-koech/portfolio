@@ -15,7 +15,7 @@ The site has no backend just frontend.
 ## Known Bugs
 The app works well, no errors.
 ## Technologies Used
-Bootstrap, HTML and CSS.
+Javascript, Bootstrap, HTML and CSS.
 ## Support and contact details
 email - koechkelvin97@gmail.com    
 whatsApp - +254725801772
