@@ -3,7 +3,8 @@
 #### By **Kelvin Kipchumba Koech**
 ## Description
 Live site - https://k-koech.github.io/portfolio/
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+The Web App is my portfolio.  It has my name, about my education background,
+professional experience, projects that I have done and my skills. It also contains my contact details with a google map of my location. There is a fixed button for direct contact to my WhatsApp.
 ## Setup/Installation Requirements
 * Download the code under the code section or clone it in your desired folder.
 * Extract the zip files if you downloaded it.
@@ -19,6 +20,6 @@ Bootstrap, HTML and CSS.
 email - koechkelvin97@gmail.com    
 whatsApp - +254725801772
 ### License
-*It licensed under MIT licence - License.md*
+*It licensed under MIT licence - (#License.md)*
 Copyright (c) 2021 **Kelvin Kipchumba Koech**
   
