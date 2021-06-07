@@ -8,7 +8,7 @@ professional experience, projects that I have done and my skills. It also contai
 ## Setup/Installation Requirements
 * Download the code under the code section or clone it in your desired folder.
 * Extract the zip files if you downloaded it.
-* Open the index.html file in your desired browser.
+* Open the index.html file with your desired browser.
 * Cheers! Happy coding.
 
 The site has no backend just frontend.
