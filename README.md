@@ -20,7 +20,7 @@ Javascript, Bootstrap, HTML and CSS.
 Email - koechkelvin97@gmail.com    
 WhatsApp - +254725801772
 ### License
-*It licensed under MIT licence - https://github.com/k-koech/portfolio/blob/master/LICENSE.md*
+*It licensed under [MIT licence](https://github.com/k-koech/portfolio/blob/master/LICENSE.md)*
 
 Copyright (c) 2021 **Kelvin Kipchumba Koech**
   
