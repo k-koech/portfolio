@@ -2,8 +2,8 @@
 #### The app is all about my portfolio, 2021
 #### By **Kelvin Kipchumba Koech**
 ## Description
-[Live site](https://k-koech.github.io/portfolio/)
-The Web App is my portfolio.  It has my name, about my education background,
+- [Live site](https://k-koech.github.io/portfolio/).
+- The Web App is my portfolio.  It has my name, about my education background,
 professional experience, projects that I have done and my skills. It also contains my contact details with a google map of my location. There is a fixed button for direct contact to my WhatsApp.
 ## Setup/Installation Requirements
 * Download the code under the code section or clone it in your desired folder.
